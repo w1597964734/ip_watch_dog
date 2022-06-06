@@ -1,2 +1,1 @@
-# ip_watch_dog
-# IP看门狗,当运行此工具的服务器ip地址发生改变的时候,会向指定的邮箱发送最新的IP地址信息
+[IP看门狗软件介绍.md](https://github.com/w1597964734/ip_watch_dog/files/8845815/IP.md)
